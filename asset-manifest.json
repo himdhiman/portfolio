@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.94e80121.chunk.css",
+    "main.js": "/portfolio/static/js/main.f0917558.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f0917558.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
+    "static/js/2.f6e96905.chunk.js": "/portfolio/static/js/2.f6e96905.chunk.js",
+    "static/js/2.f6e96905.chunk.js.map": "/portfolio/static/js/2.f6e96905.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.94e80121.chunk.css.map": "/portfolio/static/css/main.94e80121.chunk.css.map",
+    "static/js/2.f6e96905.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f6e96905.chunk.js.LICENSE.txt",
+    "static/media/Corona.b4b4f2d4.svg": "/portfolio/static/media/Corona.b4b4f2d4.svg",
+    "static/media/Mask.0543204a.svg": "/portfolio/static/media/Mask.0543204a.svg",
+    "static/media/Recovered.2bc9a8c2.svg": "/portfolio/static/media/Recovered.2bc9a8c2.svg",
+    "static/media/App.css": "/portfolio/static/media/background6.b7d31dec.jpg",
+    "static/media/confMatrix.ecdb8191.png": "/portfolio/static/media/confMatrix.ecdb8191.png",
+    "static/media/lossPlot.7d356b35.png": "/portfolio/static/media/lossPlot.7d356b35.png",
+    "static/media/smiley.0dc6ad75.png": "/portfolio/static/media/smiley.0dc6ad75.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9f76519.js",
+    "static/js/2.f6e96905.chunk.js",
+    "static/css/main.94e80121.chunk.css",
+    "static/js/main.f0917558.chunk.js"
+  ]
+}
