@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 function ProjectCard(props) {
   const renderCard = props.projects.map((project) => {
-    var image = "./projects/" + project.imagesrc;
+    var image = "/src/components/Homepage/projects/" + project.imagesrc;
     // var image =
     //   process.env.PUBLIC_URL +
     //   "/assets/Homepage/images/projects/" +

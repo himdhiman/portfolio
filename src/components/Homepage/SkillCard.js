@@ -6,7 +6,7 @@ function SkillCard(props) {
     //   process.env.PUBLIC_URL +
     //   "/public/assets/Homepage/images/skills/" +
     //   skill.svgsrc;
-    var image = "./skills/" + skill.svgsrc;
+    var image = "/src/components/Homepage/skills/" + skill.svgsrc;
     return <img src={image} key={skill.name} id="skill-img" alt=""></img>;
   });
 
