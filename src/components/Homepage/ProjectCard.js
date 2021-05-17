@@ -3,11 +3,10 @@ import { Link } from "react-router-dom";
 
 function ProjectCard(props) {
   const renderCard = props.projects.map((project) => {
-    var image = "/src/components/Homepage/projects/" + project.imagesrc;
-    // var image =
-    //   process.env.PUBLIC_URL +
-    //   "/assets/Homepage/images/projects/" +
-    //   project.imagesrc;
+    var image =
+      "https://github.com/himdhiman/portfolio/blob/master/src/components/Homepage/projects/" +
+      project.imagesrc +
+      "?raw=true";
     return (
       <div key={project.projectname}>
         <div className="column" id="project-card">
@@ -22,7 +21,11 @@ function ProjectCard(props) {
               <div className="meta">{project.description}</div>
               <div className="extra content">{project.frameworks}</div>
               <div className="extra content">
-                <Link to={project.link}>Project Demo</Link>
+                {project.link == "NULL" ? (
+                  <a href={project.projectlink}> Project Demo</a>
+                ) : (
+                  <Link to={project.link}>Project Demo</Link>
+                )}
               </div>
             </div>
           </div>
