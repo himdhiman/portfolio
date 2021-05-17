@@ -2,13 +2,11 @@ import React from "react";
 
 function SkillCard(props) {
   const renderskills = props.skills.map((skill) => {
-    var image =
-      process.env.PUBLIC_URL +
-      "/public/assets/Homepage/images/skills/" +
-      skill.svgsrc;
     // var image =
-    //   "/Portfolio-frontend-react/public/assets/Homepage/images/skills/" +
+    //   process.env.PUBLIC_URL +
+    //   "/public/assets/Homepage/images/skills/" +
     //   skill.svgsrc;
+    var image = "./skills/" + skill.svgsrc;
     return <img src={image} key={skill.name} id="skill-img" alt=""></img>;
   });
 
