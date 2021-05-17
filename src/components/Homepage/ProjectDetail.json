@@ -3,7 +3,7 @@
     {
       "projectname": "Dirty Bits",
       "description": "An Online Coding Platform",
-      "frameworks": "Django React",
+      "frameworks": "Django, React, NodeJS, Socket Programming, PSQL, Docker",
       "projectlink": "https://github.com/himdhiman/DirtyBits",
       "imagesrc": "coding.jpg",
       "link": "NULL"
@@ -11,7 +11,7 @@
     {
       "projectname": "Civid-19 Detection Using Chest Xrays",
       "description": "HeatMaps are generated to detect the infectious region",
-      "frameworks": "TensorFlow",
+      "frameworks": "TensorFlow, React, Django",
       "projectlink": "https://github.com/himdhiman/Covid-19-Detection",
       "imagesrc": "background2.jpeg",
       "link": "/covid"
@@ -19,7 +19,7 @@
     {
       "projectname": "Music Generation",
       "description": "RNN's are used to Generate Piano Music",
-      "frameworks": "TensorFlow",
+      "frameworks": "TensorFlow, React, Django, RestApi",
       "projectlink": "https://github.com/himdhiman/MusicGeneration",
       "imagesrc": "music.jpg",
       "link": "/musicgeneration"
@@ -27,7 +27,7 @@
     {
       "projectname": "Caption Bot",
       "description": "Image Captioning Project using Ateention based Archeitecture",
-      "frameworks": "TensorFlow",
+      "frameworks": "TensorFlow, React, Django, RestApi",
       "projectlink": "https://github.com/himdhiman/CaptionBot",
       "imagesrc": "caption.png",
       "link": "/captionbot"
@@ -35,7 +35,7 @@
     {
       "projectname": "Sentiment Analysis",
       "description": "This model Predicts the Sentiment of a Given Sentence.",
-      "frameworks": "TensorFlow",
+      "frameworks": "TensorFlow, React, Django, RestApi",
       "projectlink": "https://github.com/himdhiman/SentimentAnalysis",
       "imagesrc": "sentiment-analysis.jpg",
       "link": "/sentimentanalysis"
@@ -43,7 +43,7 @@
     {
       "projectname": "Book My Show Clone",
       "description": "Clone Of BMS",
-      "frameworks": "Django HTML CSS JavaScript",
+      "frameworks": "Django, HTML, CSS, JavaScript, RestApi",
       "projectlink": "https://github.com/himdhiman/BMS-2",
       "imagesrc": "bookmyshow.jpeg",
       "link": "NULL"
@@ -51,7 +51,7 @@
     {
       "projectname": "Ship Detection From SAR Images",
       "description": "Detect Ships from Given SAR Images.",
-      "frameworks": "Django JavaScript YoloV3",
+      "frameworks": "Django, JavaScript, YoloV3, HTML, CSS, TensorFlow",
       "projectlink": "https://github.com/himdhiman/SIH-2020-Ship_Detection-Project-ISRO",
       "imagesrc": "ship.jfif",
       "link": "NULL"
@@ -59,7 +59,7 @@
     {
       "projectname": "Face Detection",
       "description": "Face Detection using OpenCV.",
-      "frameworks": "OpenCV",
+      "frameworks": "OpenCV, Python, Django",
       "projectlink": "https://github.com/himdhiman/Face-Features-Live",
       "imagesrc": "face.jpg",
       "link": "NULL"
@@ -67,7 +67,7 @@
     {
       "projectname": "Human Detection",
       "description": "RCNN's are used to detect the people.",
-      "frameworks": "Django TensorFlow",
+      "frameworks": "Django, TensorFlow",
       "projectlink": "https://github.com/himdhiman/RCNN---HumanDetection",
       "imagesrc": "HD.png",
       "link": "NULL"
