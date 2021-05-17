@@ -1,0 +1,17 @@
+#caption-header-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+#caption-heading {
+  padding-top: 2vw;
+  font-size: 4vw;
+  font-family: "Courier Prime", monospace;
+  text-align: center;
+}
+
+#caption-home {
+  padding-left: 40vw;
+  padding-top: 5vw;
+}

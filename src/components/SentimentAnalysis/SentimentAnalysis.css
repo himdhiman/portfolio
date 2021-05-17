@@ -1,0 +1,43 @@
+#sentiment-heading-div {
+  display: flex;
+  justify-content: center;
+}
+#smile {
+  padding-top: 2vw;
+  height: 7vw;
+  width: 7vw;
+  padding-left: 2vw;
+}
+#sentiment-heading {
+  padding-top: 2vw;
+  font-size: 4vw;
+  font-family: "Courier Prime", monospace;
+  text-align: center;
+}
+
+#sentiment-homebtn {
+  margin-top: -5vw;
+  padding-right: 2vw;
+  display: flex;
+  justify-content: flex-end;
+}
+
+#header2 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 5vw;
+  padding-left: 10vw;
+  width: 80vw;
+}
+
+#sentiment-out {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+#out-segment {
+  display: flex;
+  width: 15vw;
+}

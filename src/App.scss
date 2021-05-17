@@ -1,0 +1,235 @@
+#effect {
+  margin-top: auto;
+  width: 100vw auto;
+  height: calc(80vh - 60px);
+}
+
+#music-effect {
+  margin-top: auto;
+  width: 100vw auto;
+  height: 100vh;
+}
+
+#HomePage-head-div {
+  padding-top: calc(80vh - 320px);
+  padding-left: 7vw;
+  display: flex;
+  align-content: center;
+  color: aliceblue;
+}
+
+#header {
+  font-size: 5vw;
+  /* font-family: 'Allura', cursive; */
+  font-family: "Courier Prime", monospace;
+}
+
+#music-header {
+  font-size: 6vw;
+  /* font-family: 'Allura', cursive; */
+  font-family: "Courier Prime", monospace;
+}
+
+#heading {
+  text-align: center;
+  font-size: 5vw;
+  /* font-family: 'Allura', cursive; */
+  font-family: "Courier Prime", monospace;
+}
+
+#project-card-container {
+  margin-left: 2vw;
+  margin-right: 2vw;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  align-items: stretch;
+}
+
+#project-card {
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+}
+
+#card-img {
+  height: 13vw;
+}
+
+#skill-img {
+  height: 6vw;
+  width: auto;
+  margin-top: 1vw;
+  padding-left: 3vw;
+  padding-right: 3vw;
+}
+
+#main {
+  font-size: 2vw;
+  padding-left: 12vw;
+  padding-right: 7vw;
+  text-align: center;
+  /* font-family: 'Allura', cursive; */
+  font-family: "Courier Prime", monospace;
+}
+
+#sub-heading {
+  padding-left: 5vw;
+  text-align: left;
+  /* font-family: 'Allura', cursive; */
+  font-family: "Courier Prime", monospace;
+  font-size: 2vw;
+}
+
+#sub-heading-text {
+  font-size: 2vw;
+  padding-left: 12vw;
+  padding-right: 7vw;
+  text-align: left;
+  /* font-family: 'Allura', cursive; */
+  font-family: "Courier Prime", monospace;
+}
+
+#covid-head-div {
+  width: 70vw;
+  padding-top: calc(80vh - 550px);
+  padding-left: 4vw;
+  display: flex;
+  align-content: center;
+  color: aliceblue;
+}
+
+#covid-icon-column {
+  display: flex;
+  align-content: center;
+}
+
+#covid-icons {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 7vw;
+  width: 7vw;
+}
+
+#predict-loader {
+  padding-left: 5vw;
+  margin-left: 2vw;
+}
+
+#heatmap-img {
+  display: none;
+  justify-content: center;
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2vw;
+}
+
+#result-div {
+  display: flex;
+  align-items: space-around;
+  margin-bottom: 1vw;
+  padding-left: 3vw;
+  padding-right: 3vw;
+}
+
+#uploaded-img {
+  height: 250px;
+  width: 250px;
+  display: none;
+}
+
+#pred-result {
+  padding-right: 7vw;
+  padding-top: 5vw;
+  color: green;
+}
+
+#plot-img {
+  padding-left: 2vw;
+  height: 300px;
+  width: 300px;
+}
+
+#conf-img {
+  padding-right: 2vw;
+}
+
+#heatmap-img-img {
+  height: 250px;
+  width: 250px;
+}
+
+#covid-text {
+  display: block;
+  text-align: center;
+}
+
+#file-input {
+  justify-content: center;
+  display: flex;
+  padding: 3vw;
+}
+
+#result-loader {
+  display: none;
+}
+
+.footer {
+  border-radius: 0%;
+  background-color: black;
+  width: 100vw auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#footer-left {
+  font-family: "Courier Prime", monospace;
+  color: white;
+  padding-left: 1vw;
+}
+#footer-right {
+  font-family: "Courier Prime", monospace;
+  color: white;
+  padding-right: 1vw;
+}
+
+#footer-icon {
+  height: 2vw;
+  width: 2vw;
+  color: white;
+}
+
+#home-btn {
+  opacity: 0.7;
+  margin-top: -15vw;
+  margin-right: 4vw;
+  float: right;
+}
+#music-home-btn {
+  opacity: 0.4;
+  margin-top: -10vw;
+  margin-right: 4vw;
+  float: right;
+}
+
+section.module.parallax {
+  height: 400px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+section.module.parallax-1 {
+  background-image: url("./components/Covid/images/background1.jpg");
+}
+
+section.module.parallax-2 {
+  background-image: url("./components/Covid/images/background2.jpeg");
+}
+
+section.module.parallax-3 {
+  background-image: url("./components/Covid/images/background6.jpg");
+}

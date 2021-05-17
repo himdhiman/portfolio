@@ -1,0 +1,104 @@
+{
+  "skills": [
+    {
+      "name": "C",
+      "svgsrc": "c.svg"
+    },
+    {
+      "name": "C++",
+      "svgsrc": "cpp.svg"
+    },
+    {
+      "name": "Python",
+      "svgsrc": "python3.svg"
+    },
+    {
+      "name": "Numpy",
+      "svgsrc": "numpy.svg"
+    },
+    {
+      "name": "Pandas",
+      "svgsrc": "pandas.svg"
+    },
+    {
+      "name": "Matplotlib",
+      "svgsrc": "matplotlib.svg"
+    },
+    {
+      "name": "OpenCV",
+      "svgsrc": "opencv-icon.svg"
+    },
+    {
+      "name": "Sklearn",
+      "svgsrc": "sklearn.svg"
+    },
+    {
+      "name": "TensorFlow",
+      "svgsrc": "tensorflow.svg"
+    },
+    {
+      "name": "Keras",
+      "svgsrc": "keras.svg"
+    },
+    {
+      "name": "Darknet",
+      "svgsrc": "darknet.svg"
+    },
+    {
+      "name": "Django",
+      "svgsrc": "django.svg"
+    },
+    {
+      "name": "restFramework",
+      "svgsrc": "restframework.png"
+    },
+    {
+      "name": "Channels",
+      "svgsrc": "channels.png"
+    },
+    {
+      "name": "PostgreSQL",
+      "svgsrc": "postgresql.svg"
+    },
+    {
+      "name": "redis",
+      "svgsrc": "redis.png"
+    },
+    {
+      "name": "celery",
+      "svgsrc": "celery.png"
+    },
+    {
+      "name": "docker",
+      "svgsrc": "docker.png"
+    },
+    {
+      "name": "JavaScript",
+      "svgsrc": "javascript.svg"
+    },
+    {
+      "name": "HTML5",
+      "svgsrc": "html5.svg"
+    },
+    {
+      "name": "CSS3",
+      "svgsrc": "css3.svg"
+    },
+    {
+      "name": "React",
+      "svgsrc": "react.svg"
+    },
+    {
+      "name": "Redux",
+      "svgsrc": "redux.svg"
+    },
+    {
+      "name": "Axios",
+      "svgsrc": "axios.svg"
+    },
+    {
+      "name": "WebPack",
+      "svgsrc": "webpack.svg"
+    }
+  ]
+}

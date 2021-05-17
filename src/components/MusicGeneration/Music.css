@@ -1,0 +1,18 @@
+#music-btn {
+  padding-top: 10vw;
+  padding-left: 5vw;
+}
+
+#download-file {
+  padding-top: 2vw;
+  padding-left: 7vw;
+  display: none;
+  color: white;
+}
+
+#help-text {
+  padding-top: 2vw;
+  padding-left: 7vw;
+  display: none;
+  color: white;
+}
