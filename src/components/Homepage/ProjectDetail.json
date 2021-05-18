@@ -4,7 +4,7 @@
       "projectname": "Dirty Bits",
       "description": "An Online Coding Platform",
       "frameworks": "Django, React, NodeJS, Socket Programming, PSQL, Docker",
-      "projectlink": "https://github.com/himdhiman/DirtyBits",
+      "projectlink": "https://dirtybits.herokuapp.com/",
       "imagesrc": "coding.jpg",
       "link": "NULL"
     },
